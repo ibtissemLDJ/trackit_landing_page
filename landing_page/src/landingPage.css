@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+body{
+  font-family: 'Questrial';
+}
+.hero-content h1 {
+  font-size: 45px;
+  margin-left: 10px;
+  color: #222;
+}
+
+.hero-content p {
+  margin-top: 20px;
+  margin-left: 10px;
+  font-size: 14px;
+  color: #555;
+}
+.start-now-btn {
+  border: none;
+  background-color: rgba(0, 121, 254, 1) ;
+  color: white;
+  border-radius: 32px;
+  height: 48px;
+  width: 145px;
+  margin-right: 5px;
+  margin-left: 10px;
+}
+.tex{
+  text-align: center;
+}
+.tex p{
+  font-size: 14px;
+  color: #555;
+}
+.tex h2{
+  font-size: 45px;
+  margin-left: 10px;
+  color: #222;
+}
+.hero-illustration img{
+  width: 669px;
+  height: 691px;
+}
+.heroSection{
+  justify-content: space-between;
+}

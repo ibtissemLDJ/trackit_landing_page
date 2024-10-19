@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+*{
+    
+    font-family: Gilroy-Medium;
+    padding: 0%;
+    margin: 6px;
+    
+
+   }
+
+   body{
+    background-image: url(assets/backgroundImg.png) ;
+    background-size: cover;
+    
+   }

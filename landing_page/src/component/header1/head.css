@@ -1,0 +1,38 @@
+.head{
+   
+    margin-top: 20px;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.Login{
+    border: 1px solid;
+    border-color: #DBDDE8;
+    background-color:white ;
+    color: #04132A;
+    border-radius: 32px;
+    height: 48px;
+    width: 145px;
+    margin-right: 5px;
+}
+.singup{
+    border: none;
+    background-color: rgba(0, 121, 254, 1) ;
+    color: white;
+    border-radius: 32px;
+    height: 48px;
+    width: 145px;
+    margin-right: 5px;
+}
+a {
+    margin-top: 4px;
+    margin-right: 10px;
+    color: black ;
+}
+
+.logo{
+    width: 156px;
+    height: 57.39px;
+}
